@@ -1,0 +1,16 @@
+C:\Users\Lenovo\OneDrive\Работен плот\Calculator-Git-Tutorial-Project\bin\Debug\Calculator-Git-Tutorial-Project.exe.config
+C:\Users\Lenovo\OneDrive\Работен плот\Calculator-Git-Tutorial-Project\bin\Debug\Calculator-Git-Tutorial-Project.exe
+C:\Users\Lenovo\OneDrive\Работен плот\Calculator-Git-Tutorial-Project\bin\Debug\Calculator-Git-Tutorial-Project.pdb
+C:\Users\Lenovo\OneDrive\Работен плот\Calculator-Git-Tutorial-Project\obj\Debug\Calculator-Git-Tutorial-Project.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Работен плот\Calculator-Git-Tutorial-Project\obj\Debug\Calculator_Git_Tutorial_Project.Form1.resources
+C:\Users\Lenovo\OneDrive\Работен плот\Calculator-Git-Tutorial-Project\obj\Debug\Calculator_Git_Tutorial_Project.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Работен плот\Calculator-Git-Tutorial-Project\obj\Debug\Calculator-Git-Tutorial-Project.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Работен плот\Calculator-Git-Tutorial-Project\obj\Debug\Calculator-Git-Tutorial-Project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Работен плот\Calculator-Git-Tutorial-Project\obj\Debug\Calculator-Git-Tutorial-Project.exe
+C:\Users\Lenovo\OneDrive\Работен плот\Calculator-Git-Tutorial-Project\obj\Debug\Calculator-Git-Tutorial-Project.pdb
+C:\Users\Lenovo\OneDrive\Работен плот\Calculator-Git-Tutorial-Project\bin\Debug\en-AS\Calculator-Git-Tutorial-Project.resources.dll
+C:\Users\Lenovo\OneDrive\Работен плот\Calculator-Git-Tutorial-Project\bin\Debug\en\Calculator-Git-Tutorial-Project.resources.dll
+C:\Users\Lenovo\OneDrive\Работен плот\Calculator-Git-Tutorial-Project\obj\Debug\Calculator_Git_Tutorial_Project.Form1.en-AS.resources
+C:\Users\Lenovo\OneDrive\Работен плот\Calculator-Git-Tutorial-Project\obj\Debug\Calculator_Git_Tutorial_Project.Form1.en.resources
+C:\Users\Lenovo\OneDrive\Работен плот\Calculator-Git-Tutorial-Project\obj\Debug\en-AS\Calculator-Git-Tutorial-Project.resources.dll
+C:\Users\Lenovo\OneDrive\Работен плот\Calculator-Git-Tutorial-Project\obj\Debug\en\Calculator-Git-Tutorial-Project.resources.dll
